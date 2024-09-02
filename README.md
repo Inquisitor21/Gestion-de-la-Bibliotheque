@@ -18,7 +18,7 @@ Ce projet est une application de gestion de bibliothèque développée en Java a
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/Inquisitor21/gestion-bibliotheque.git
+    git clone https://github.com/Inquisitor21/Gestion-de-la-Bibliotheque.git
     cd gestion-bibliotheque
     ```
 
